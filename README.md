@@ -1,3 +1,7 @@
+# This project has been deprecated.
+
+So young. So innocent. This approach has been combined with https://github.com/mpapis/rubygems-bundler for great justice! Go there instead, and for the love of God, don't use this anymore.
+
 # Noexec
 
 Let's stop using bundle exec, kthx.
